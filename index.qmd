@@ -87,17 +87,17 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 **The Logics of Quantitative and Qualitative Research**
 
-### [Slides Week 2]( "Slides Week 2")
+<!-- ### [Slides Week 2]( "Slides Week 2") -->
 
-### Readings
+<!-- ### Readings -->
 
--   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 2). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
+<!-- -   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 2). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ) -->
 
--   Mahoney, J. (2008). Toward a Unified Theory of Causality. *Comparative Political Studies, 41*(4-5), 412-436. <https://doi.org/10.1177/0010414007313115>
+<!-- -   Mahoney, J. (2008). Toward a Unified Theory of Causality. *Comparative Political Studies, 41*(4-5), 412-436. <https://doi.org/10.1177/0010414007313115> -->
 
--   Mahoney, J., & Goertz, G. (2006). A Tale of Two Cultures: Contrasting Quantitative and Qualitative Research. *Political Analysis, 14*(3), 227-249. <https://doi.org/10.1093/pan/mpj017>
+<!-- -   Mahoney, J., & Goertz, G. (2006). A Tale of Two Cultures: Contrasting Quantitative and Qualitative Research. *Political Analysis, 14*(3), 227-249. <https://doi.org/10.1093/pan/mpj017> -->
 
--   [Bartels, L. M. (2010). Some Unfulfilled Promises of Quantitative Imperialism. In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 85-92). Rowman & Littlefield.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EQzlgj5uBfRDiKQW6HqbEEIBJUV5ZYGFOhiO7l3z5JLogQ?e=tbjSSQ)
+<!-- -   [Bartels, L. M. (2010). Some Unfulfilled Promises of Quantitative Imperialism. In H. E. Brady & D. Collier (Eds.), *Rethinking Social Inquiry: Diverse Tools, Shared Standards* (pp. 85-92). Rowman & Littlefield.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EQzlgj5uBfRDiKQW6HqbEEIBJUV5ZYGFOhiO7l3z5JLogQ?e=tbjSSQ) -->
 
 # Assessment
 
