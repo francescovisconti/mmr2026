@@ -95,6 +95,21 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 <!-- -   Mahoney, J. (2008). Toward a Unified Theory of Causality. *Comparative Political Studies, 41*(4-5), 412-436. <https://doi.org/10.1177/0010414007313115> -->
 
+## **Week 3**
+
+**Somewhere in between qualitative and quantitative methods: QCA**
+
+### [Slides Week 2]( "Slides Week 3")
+
+### Readings
+
+-   Goertz, G., & Mahoney, J. (2013). Methodological Rorschach tests: Contrasting interpretations in qualitative and quantitative research. *Comparative Political Studies*, 46(2), 236-251. <https://journals.sagepub.com/doi/pdf/10.1177/0010414012466376?casa_token=mVr5W0lGDQgAAAAA:IlbKnUY0T0nPS69tqHyppvGHwqUyCSWrbx6c0FnpnyhcBMtMyiUSlbMqLsXADhngudzzzL2KG5Fw1Q>
+
+- [Chapters 1 and 2 of Oana, I. E., Schneider, C. Q., & Thomann, E. (2021). *Qualitative comparative analysis using R: A beginner's guide*. Cambridge University Press.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/IQASSna9k24tSY7GyZsh3SeOAReGRSF1KqB3I2KP3MPcuSw?e=T4iu3y)
+
+-   [Freyburg, T., & Garbe, L. (2018). Blocking the bottleneck: Internet shutdowns and ownership at election times in sub-Saharan Africa. International Journal of Communication, 12, 3896-3916. ](https://ijoc.org/index.php/ijoc/article/view/8546)
+
+
 
 # Assessment
 
