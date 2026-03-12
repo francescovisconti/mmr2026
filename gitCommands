@@ -3,3 +3,15 @@
 git add .
 git commit -m ""
 git push origin main
+
+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
+
+96n39q3gw343mq4
+
+install.packages(c("gitcreds"))
+
+usethis::create_github_token()
+# create a new token in the browser and copy it
+
+gitcreds::gitcreds_set()
+# paste the token when prompted
