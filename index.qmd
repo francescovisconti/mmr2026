@@ -173,6 +173,7 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   Lieberman, E. (2005). Nested Analysis as a Mixed-Method Strategy for Comparative Research. *American Political Science Review, 99*(3), 435-452. <https://doi.org/10.1017/S0003055405051762>
 
+- Cinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. *Sociological Methods & Research*, 53(3), 1071-1104.<https://doi.org/10.1177/00491241221099552>
 
 ### Examples:
 
