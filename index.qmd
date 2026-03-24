@@ -157,6 +157,30 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 ### [Material](https://luiss-my.sharepoint.com/:u:/g/personal/fvisconti_luiss_it/IQAFF4Qyc1JsRZ88QoLoZG1ZAUULp5hslXTMq0uQ-GsfZN8?e=qK20tw "Material")
 
+
+
+## **Week 7**
+
+**Regression Analysis in MMR**
+
+### [Slides week 7](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/Eb68Yqgq8vpGoHFRwDnqkmIBChvtajS-6Ilv5zdQesG1KA?e=dCCWFx)
+
+### Readings:
+
+-   [Seawright, J. (2016). *Multi-Method Social Science: Combining Qualitative and Quantitative Tools* (Chapter 3). Cambridge University Press.](https://go.exlibris.link/m47rfDcZ)
+
+-   Achen, C. H. (2005). Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong. *Conflict Management and Peace Science, 22*(4), 327-339. <https://doi.org/10.1080/07388940500339167>
+
+### Examples:
+
+-   De Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. *Journal of Conflict Resolution, 62*(7), 1433-1458. <https://doi.org/10.1177/0022002717692652>
+
+-   Wasow, O. (2020). Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting. *American Political Science Review, 114*(3), 638-659. <https://doi.org/10.1017/S000305542000009X>
+
+-   Cassani, A., Luppi, F., & Natalizia, G. (2016). Pathways of democratisation to human development in post‐communist countries. *European Journal of Political Research*, 55(3), 512-530.\
+    <https://doi.org/10.1111/1475-6765.12140>
+
+
 # Assessment
 
 The final course grade will be expressed in thirtieths (/30). A pass mark will be attained with a minimum mark of 18/30, while the maximum mark will be 30/30 cum laude. The course will require both active class participation and a successful completion of a number of tasks/activities as follows:
