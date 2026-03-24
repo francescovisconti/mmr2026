@@ -171,6 +171,9 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   Achen, C. H. (2005). Let's Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong. *Conflict Management and Peace Science, 22*(4), 327-339. <https://doi.org/10.1080/07388940500339167>
 
+-   Lieberman, E. (2005). Nested Analysis as a Mixed-Method Strategy for Comparative Research. *American Political Science Review, 99*(3), 435-452. <https://doi.org/10.1017/S0003055405051762>
+
+
 ### Examples:
 
 -   De Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. *Journal of Conflict Resolution, 62*(7), 1433-1458. <https://doi.org/10.1177/0022002717692652>
