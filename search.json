@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
@@ -77,6 +70,13 @@
     "text": "Week 7\nRegression Analysis in MMR\n\nSlides week 7\n\n\nReadings:\n\nSeawright, J. (2016). Multi-Method Social Science: Combining Qualitative and Quantitative Tools (Chapter 3). Cambridge University Press.\nAchen, C. H. (2005). Let’s Put Garbage-Can Regressions and Garbage-Can Probits Where They Belong. Conflict Management and Peace Science, 22(4), 327-339. https://doi.org/10.1080/07388940500339167\nLieberman, E. (2005). Nested Analysis as a Mixed-Method Strategy for Comparative Research. American Political Science Review, 99(3), 435-452. https://doi.org/10.1017/S0003055405051762\nCinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104.https://doi.org/10.1177/00491241221099552\n\n\n\nExamples:\n\nDe Bruin, E. (2018). Preventing Coups D’état: How Counterbalancing Works. Journal of Conflict Resolution, 62(7), 1433-1458. https://doi.org/10.1177/0022002717692652\nWasow, O. (2020). Agenda Seeding: How 1960s Black Protests Moved Elites, Public Opinion, and Voting. American Political Science Review, 114(3), 638-659. https://doi.org/10.1017/S000305542000009X\nCassani, A., Luppi, F., & Natalizia, G. (2016). Pathways of democratisation to human development in post‐communist countries. European Journal of Political Research, 55(3), 512-530.\nhttps://doi.org/10.1111/1475-6765.12140"
   },
   {
+    "objectID": "index.html#week-8",
+    "href": "index.html#week-8",
+    "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
+    "section": "Week 8",
+    "text": "Week 8\nFieldwork, Interviews, Ethnography in MMR\n\nSlides week 8\n\n\nReadings:\n\nCreswell, J. W., Hanson, W. E., & Morales, A. (2006). How Interpretive Qualitative Research Extends Mixed Methods Research. Research in the Schools, 13(1), 1-11.\nBoswell, J., Corbett, J., Dommett, K., Jennings, W., Flinders, M., Rhodes, R. A. W., & Wood, M. (2019). State of the Field: What Can Political Ethnography Tell Us About Anti-Politics and Democratic Disaffection? European Journal of Political Research, 58(1), 56-71. https://doi.org/10.1111/1475-6765.12270\nWood, E. J. (2007). Field Research. In C. Boix & S. Stokes (Eds.), The Oxford Handbook of Comparative Politics (pp. 123-146). Oxford University Press.\nKapiszewski, D., & MacLean, L. M. (2015). Interviews, Focus Groups, and Oral Histories. In Field Research in Political Science (pp. 190-233). Cambridge University Press.\nFujii, L. A. (2018). Interviewing in Social Science Research: A Relational Approach (Chapter 1). Routledge.\n\n\n\nExamples:\n\nGowayed, H. (2018). The Unnecessary Nudge: Education and Poverty Policy in a Cairo Slum. Sociological Forum, 33(2), 299-318. https://doi.org/10.1111/socf.12421\nThachil, T. (2018). Improving Surveys Through Ethnography: Insights from India’s Urban Periphery. Studies in Comparative International Development, 53(3), 281-299. https://doi.org/10.1007/s12116-018-9272-3\nPovitkina, M., & Bolkvadze, K. (2019). Fresh pipes with dirty water: How quality of government shapes the provision of public goods in democracies. European Journal of Political Research, 58(4), 1191-1212. https://doi.org/10.1111/1475-6765.12330"
+  },
+  {
     "objectID": "index.html#participation-in-class",
     "href": "index.html#participation-in-class",
     "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
@@ -96,5 +96,12 @@
     "title": "Luiss Guido Carli | PhD in Politics | Mixed Methods",
     "section": "Final paper",
     "text": "Final paper\nThis is the main requirement for the course (50% of the final grade). The paper will serve as an important exercise in how to design a social science research proposal that includes a mixed method design and will hopefully serve as the basis for students’ dissertation project. The paper should contain (1) the central research question(s), (2) the literature and/or debate it seeks to address, (3) the argument or theory/hypotheses, (4) a description of the mixed method design to be used in the project, (5) case selection criteria, and (6) a plan for data collection and analysis that will serve to answer the research question(s). The paper should be between 3,000 and 4,000 words."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   }
 ]
