@@ -185,6 +185,35 @@ Lectures followed by open discussions with students. Students will be engaged in
     <https://doi.org/10.1111/1475-6765.12140>
 
 
+## **Week 8**
+
+**Fieldwork, Interviews, Ethnography in MMR**
+
+### [Slides week 8](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/IQBFp60mSVc8SILaUj4z1HaDAUFktQuChShm6tZmeq5n9Fs?e=kbe00O "Slides week 8")
+
+### Readings:
+
+-   [Creswell, J. W., Hanson, W. E., & Morales, A. (2006). How Interpretive Qualitative Research Extends Mixed Methods Research. *Research in the Schools, 13*(1), 1-11.](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=97d962208ddefbf01b3de936446c0ee20381df10)
+
+-   Boswell, J., Corbett, J., Dommett, K., Jennings, W., Flinders, M., Rhodes, R. A. W., & Wood, M. (2019). State of the Field: What Can Political Ethnography Tell Us About Anti-Politics and Democratic Disaffection? *European Journal of Political Research, 58*(1), 56-71. <https://doi.org/10.1111/1475-6765.12270>
+
+
+-   [Wood, E. J. (2007). Field Research. In C. Boix & S. Stokes (Eds.), *The Oxford Handbook of Comparative Politics* (pp. 123-146). Oxford University Press.](https://go.exlibris.link/dcrkHX5L)
+
+-   [Kapiszewski, D., & MacLean, L. M. (2015). Interviews, Focus Groups, and Oral Histories. In *Field Research in Political Science* (pp. 190-233). Cambridge University Press.](https://go.exlibris.link/Pqhk30p3)
+
+-   [Fujii, L. A. (2018). *Interviewing in Social Science Research: A Relational Approach* (Chapter 1). Routledge.](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EVwgG28I59xOm8RWOOnuSRoBjxSdCDcR-JgnJ8UT6JTe4w?e=36sR9P)
+
+
+### Examples:
+
+-   Gowayed, H. (2018). The Unnecessary Nudge: Education and Poverty Policy in a Cairo Slum. *Sociological Forum, 33*(2), 299-318. <https://doi.org/10.1111/socf.12421>
+
+-   Thachil, T. (2018). Improving Surveys Through Ethnography: Insights from India’s Urban Periphery. *Studies in Comparative International Development, 53*(3), 281-299. <https://doi.org/10.1007/s12116-018-9272-3>
+
+-  Povitkina, M., & Bolkvadze, K. (2019). Fresh pipes with dirty water: How quality of government shapes the provision of public goods in democracies. *European Journal of Political Research*, 58(4), 1191-1212. <https://doi.org/10.1111/1475-6765.12330>
+
+
 # Assessment
 
 The final course grade will be expressed in thirtieths (/30). A pass mark will be attained with a minimum mark of 18/30, while the maximum mark will be 30/30 cum laude. The course will require both active class participation and a successful completion of a number of tasks/activities as follows:
