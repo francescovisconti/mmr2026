@@ -242,19 +242,23 @@ Lectures followed by open discussions with students. Students will be engaged in
 
 -   Raffler, P. J. (2022). Does Political Oversight of the Bureaucracy Increase Accountability? Field Experimental Evidence from a Dominant Party Regime. *American Political Science Review, 116*(4), 1443-1459. <https://doi.org/10.1017/S0003055422000181>
 
-<!-- ## **Week 10** -->
+## **Week 10**
 
-<!-- **Transparency and evaluation of MMR** -->
+**Sampling, data collection and analysis + Transparency and evaluation**
 
-<!-- ### [Slides week 10](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/EUhYlTlzzBVKkKz4ZQ_JrWgBsu8C-USfTf5gSkWC7BhxLg?e=Izr8g4) -->
+### [Slides week 10_1](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/IQAaWDGizjlrQ7qEf-UMPxwIAUdmZK1ssnD1_6aXjVwddto?e=i1nXi5 "Slides week 10_1")
 
-<!-- ### Readings -->
+### [Slides week 10_2](https://luiss-my.sharepoint.com/:b:/g/personal/fvisconti_luiss_it/IQB50MVATJNSSYKjjbD9P9CeAZAg__hYtrDNJeJfpkThkx8?e=yzqcoc "Slides week 10_2")
 
-<!-- -   Elman, C., Kapiszewski, D., & Lupia, A. (2018). Transparent social inquiry: implications for political science. Annual Review of Political Science, 21(1), 29-47. <https://doi.org/10.1146/annurev-polisci-091515-025429> -->
+### Readings
 
-<!-- -   Data Access and Research Transparency (DA-RT): A Joint Statement by Political Science Journal Editors. (2015). *Political Science Research and Methods, 3*(3), 421. <https://doi.org/10.1017/psrm.2015.44> -->
+-   [Chapter 6 and 7 - Creswell Plano Clark, (2017) Designing and Conducting Mixed Methods Research]()
 
-<!-- -   Jacobs, A. M., Büthe, T., Arjona, A., Arriola, L. R., Bellin, E., Bennett, A., … Yashar, D. J. (2021). The Qualitative Transparency Deliberations: Insights and Implications. *Perspectives on Politics*, *19*(1), 171–208. <https://doi.org/10.1017/S1537592720001164> -->
+-   Elman, C., Kapiszewski, D., & Lupia, A. (2018). Transparent social inquiry: implications for political science. Annual Review of Political Science, 21(1), 29-47. <https://doi.org/10.1146/annurev-polisci-091515-025429>
+
+-   Data Access and Research Transparency (DA-RT): A Joint Statement by Political Science Journal Editors. (2015). *Political Science Research and Methods, 3*(3), 421. <https://doi.org/10.1017/psrm.2015.44>
+
+-   Jacobs, A. M., Büthe, T., Arjona, A., Arriola, L. R., Bellin, E., Bennett, A., … Yashar, D. J. (2021). The Qualitative Transparency Deliberations: Insights and Implications. *Perspectives on Politics*, *19*(1), 171–208. <https://doi.org/10.1017/S1537592720001164>
 
 <!-- ### Optional -->
 
